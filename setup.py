@@ -3,6 +3,7 @@ import sys, os
 
 version = '63'
 
+requireds = ['PySide']
 
 setup(name='python-yamusic',
       version=version,
